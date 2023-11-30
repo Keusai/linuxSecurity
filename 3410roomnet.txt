@@ -1,0 +1,15 @@
+
+Room Nuber 3410 network stting project
+
+part1
+
+- osi 1-4 Layer
+- device: switch. router
+
+2023 11 30
+router
+project
+
+part2 
+- osi 5 -7 Layer
+- Application
